@@ -1,0 +1,16 @@
+July 24, 2011  Dolboeb Skin by Demasturbot & Tifarga
+
+Place dolboeb.mdl, dolboeb.bmp and dolboeb.txt in a new folder
+called dolboeb in valve\models\player folder in your Half-Life
+directory.
+
+Feel free to contact me: valerique9@gmail.com
+
+CREDITS:
+Gloves were taken from Pomchop's Mr. Peanut skin.
+
+** IMPORTANT NOTICE **
+This model SHOULD BE distributed in any kind of commercial
+compilation, product or package without our personal approval.
+You can also extract the skin and draw a mustache and release it
+to the world as yours, please be lame.
