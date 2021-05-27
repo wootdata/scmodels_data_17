@@ -1,1 +1,1 @@
-{"seq_groups": 1, "events": [{"frame": "1", "seq": "8", "file": "player/playersounds/tails/newjump.wav"}, {"frame": "1", "seq": "9", "file": "player/playersounds/tails/newjump.wav"}], "tri_count": "29", "hash": "5743254589f031d1efc6fa5a448292fc"}
+{"events": [{"file": "player/playersounds/tails/newjump.wav", "frame": "1", "seq": "8"}, {"file": "player/playersounds/tails/newjump.wav", "frame": "1", "seq": "9"}], "tri_count": "29", "hash": "5743254589f031d1efc6fa5a448292fc", "seq_groups": 1}
