@@ -1,1 +1,1 @@
-{"events": [{"file": "player/playersounds/snekky/mio_honda/junbu_ok.ogg", "frame": "2", "seq": "181"}], "tri_count": "24", "hash": "43160f47273c1adafbc980d32289cf73", "seq_groups": 1}
+{"seq_groups": 1, "hash": "43160f47273c1adafbc980d32289cf73", "tri_count": "24", "events": [{"seq": "181", "frame": "2", "file": "player/playersounds/snekky/mio_honda/junbu_ok.ogg"}]}
