@@ -875,6 +875,7 @@
 			"name": "crouch_die"
 		}
 	],
+	"size": 2458984,
 	"skeleton": [
 		{
 			"name": "Bip01",
