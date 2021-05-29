@@ -1,1 +1,73 @@
-{"seq_groups": 1, "hash": "8821376e12bd497af7f7f838b2b376e9", "tri_count": "186"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "base",
+					"polys": 186,
+					"verts": 95
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "8821376e12bd497af7f7f838b2b376e9",
+	"name": "d:\\rewolf\\baboon.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 5.000000,
+			"frames": 11,
+			"name": "deadtwitch"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 2
+		}, 
+		{
+			"name": "Bone09",
+			"parent": 2
+		}, 
+		{
+			"name": "Bone10",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone06",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 6
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 187,
+			"name": "baboon.bmp",
+			"width": 204
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,1493 @@
-{"seq_groups": 1, "hash": "073090967e4d1ceaa94fad81472bdee0", "tri_count": "11532", "events": [{"seq": "5", "frame": "1", "file": "weapons/devilterminator_attack1.wav"}, {"seq": "5", "frame": "10", "file": "weapons/devilterminator_attack2.wav"}, {"seq": "12", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "13", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "14", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "15", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "16", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "17", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "18", "frame": "1", "file": "devilterminator/devilterminatordeath.wav"}, {"seq": "21", "frame": "1", "file": "weapons/devilterminator_attack1.wav"}, {"seq": "21", "frame": "10", "file": "weapons/devilterminator_attack2.wav"}, {"seq": "24", "frame": "1", "file": "weapons/devilterminator_attack1.wav"}, {"seq": "24", "frame": "10", "file": "weapons/devilterminator_attack2.wav"}, {"seq": "27", "frame": "1", "file": "weapons/devilterminator_attack_stab.wav"}, {"seq": "30", "frame": "1", "file": "weapons/devilterminator_attack_stab.wav"}]}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "Arch-Devil",
+					"polys": 1955,
+					"verts": 1170
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Arch-Devil00",
+					"polys": 1943,
+					"verts": 1164
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Arch-Devil01",
+					"polys": 1776,
+					"verts": 1366
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "x1",
+					"polys": 1955,
+					"verts": 1170
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "x2",
+					"polys": 1943,
+					"verts": 1164
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "x3",
+					"polys": 1776,
+					"verts": 1366
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "eyes",
+					"polys": 4,
+					"verts": 8
+				}
+			],
+			"name": "mesh"
+		}, 
+		{
+			"models": [
+				{
+					"name": "effect",
+					"polys": 180,
+					"verts": 144
+				}
+			],
+			"name": "mesh"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "weapons/devilterminator_attack1.wav",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 10,
+			"options": "weapons/devilterminator_attack2.wav",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "devilterminator/devilterminatordeath.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "weapons/devilterminator_attack1.wav",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 10,
+			"options": "weapons/devilterminator_attack2.wav",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "weapons/devilterminator_attack1.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 10,
+			"options": "weapons/devilterminator_attack2.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "weapons/devilterminator_attack_stab.wav",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "weapons/devilterminator_attack_stab.wav",
+			"sequence": 30,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "073090967e4d1ceaa94fad81472bdee0",
+	"name": "archdevil.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 25.000000,
+			"frames": 30,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 30,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 30,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "walk"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 50,
+			"name": "ref_shoot_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouchrun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "longjump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "swim"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 11,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 30,
+			"name": "death1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 30,
+			"name": "death2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 30,
+			"name": "death3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 60,
+			"name": "head"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 60,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 60,
+			"name": "left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 60,
+			"name": "back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 50,
+			"name": "ref_shoot_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouch_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouch_aim_knife"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 60,
+			"name": "crouch_shoot_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_shoot_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouch_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouch_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crouch_shoot_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "ref_aim_knife"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Scene Root",
+			"parent": -1
+		}, 
+		{
+			"name": "M-bone",
+			"parent": 0
+		}, 
+		{
+			"name": "M-bone Pelvis",
+			"parent": 1
+		}, 
+		{
+			"name": "M-bone Spine",
+			"parent": 2
+		}, 
+		{
+			"name": "M-bone Spine1",
+			"parent": 3
+		}, 
+		{
+			"name": "M-bone Neck",
+			"parent": 4
+		}, 
+		{
+			"name": "M-bone R Clavicle",
+			"parent": 5
+		}, 
+		{
+			"name": "M-bone R UpperArm",
+			"parent": 6
+		}, 
+		{
+			"name": "M-bone R Forearm",
+			"parent": 7
+		}, 
+		{
+			"name": "M-bone R Hand",
+			"parent": 8
+		}, 
+		{
+			"name": "M-bone R Finger0",
+			"parent": 9
+		}, 
+		{
+			"name": "M-bone R Finger01",
+			"parent": 10
+		}, 
+		{
+			"name": "M-bone R Finger02",
+			"parent": 11
+		}, 
+		{
+			"name": "M-bone R Finger1",
+			"parent": 9
+		}, 
+		{
+			"name": "M-bone R Finger11",
+			"parent": 13
+		}, 
+		{
+			"name": "M-bone R Finger12",
+			"parent": 14
+		}, 
+		{
+			"name": "M-bone R Finger2",
+			"parent": 9
+		}, 
+		{
+			"name": "M-bone R Finger21",
+			"parent": 16
+		}, 
+		{
+			"name": "M-bone R Finger22",
+			"parent": 17
+		}, 
+		{
+			"name": "M-bone R Finger3",
+			"parent": 9
+		}, 
+		{
+			"name": "M-bone R Finger31",
+			"parent": 19
+		}, 
+		{
+			"name": "M-bone R Finger32",
+			"parent": 20
+		}, 
+		{
+			"name": "M-bone R Finger4",
+			"parent": 9
+		}, 
+		{
+			"name": "M-bone R Finger41",
+			"parent": 22
+		}, 
+		{
+			"name": "M-bone R Finger42",
+			"parent": 23
+		}, 
+		{
+			"name": "M-bone Head",
+			"parent": 5
+		}, 
+		{
+			"name": "M-bone R Thigh",
+			"parent": 2
+		}, 
+		{
+			"name": "M-bone R Calf",
+			"parent": 26
+		}, 
+		{
+			"name": "Bone001",
+			"parent": 2
+		}, 
+		{
+			"name": "Bone002",
+			"parent": 28
+		}, 
+		{
+			"name": "Bone003",
+			"parent": 29
+		}, 
+		{
+			"name": "Bone004",
+			"parent": 30
+		}, 
+		{
+			"name": "M-bone L Clavicle",
+			"parent": 5
+		}, 
+		{
+			"name": "M-bone L UpperArm",
+			"parent": 32
+		}, 
+		{
+			"name": "M-bone L Forearm",
+			"parent": 33
+		}, 
+		{
+			"name": "M-bone L Hand",
+			"parent": 34
+		}, 
+		{
+			"name": "M-bone L Finger0",
+			"parent": 35
+		}, 
+		{
+			"name": "M-bone L Finger01",
+			"parent": 36
+		}, 
+		{
+			"name": "M-bone L Finger02",
+			"parent": 37
+		}, 
+		{
+			"name": "M-bone L Finger1",
+			"parent": 35
+		}, 
+		{
+			"name": "M-bone L Finger11",
+			"parent": 39
+		}, 
+		{
+			"name": "M-bone L Finger12",
+			"parent": 40
+		}, 
+		{
+			"name": "M-bone L Finger2",
+			"parent": 35
+		}, 
+		{
+			"name": "M-bone L Finger21",
+			"parent": 42
+		}, 
+		{
+			"name": "M-bone L Finger22",
+			"parent": 43
+		}, 
+		{
+			"name": "M-bone L Finger3",
+			"parent": 35
+		}, 
+		{
+			"name": "M-bone L Finger31",
+			"parent": 45
+		}, 
+		{
+			"name": "M-bone L Finger32",
+			"parent": 46
+		}, 
+		{
+			"name": "M-bone L Finger4",
+			"parent": 35
+		}, 
+		{
+			"name": "M-bone L Finger41",
+			"parent": 48
+		}, 
+		{
+			"name": "M-bone L Finger42",
+			"parent": 49
+		}, 
+		{
+			"name": "M-bone L Thigh",
+			"parent": 2
+		}, 
+		{
+			"name": "M-bone L Calf",
+			"parent": 51
+		}, 
+		{
+			"name": "Bone016",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone017",
+			"parent": 53
+		}, 
+		{
+			"name": "Bone018",
+			"parent": 54
+		}, 
+		{
+			"name": "Bone019",
+			"parent": 55
+		}, 
+		{
+			"name": "Bone020",
+			"parent": 56
+		}, 
+		{
+			"name": "Bone023",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone024",
+			"parent": 58
+		}, 
+		{
+			"name": "Bone025",
+			"parent": 59
+		}, 
+		{
+			"name": "Bone026",
+			"parent": 60
+		}, 
+		{
+			"name": "Bone027",
+			"parent": 61
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "$ArchDevilTerminator_Torso.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 64,
+			"height": 512,
+			"name": "$ArchDevilTerminator.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 32,
+			"height": 512,
+			"name": "x2.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 32,
+			"height": 512,
+			"name": "x3.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 32,
+			"height": 64,
+			"name": "SGFX_SE_GLOW_01.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 32,
+			"height": 591,
+			"name": "EFFECT.bmp",
+			"width": 516
+		}
+	],
+	"version": 10
+}

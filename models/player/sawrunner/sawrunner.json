@@ -1,1 +1,1521 @@
-{"seq_groups": 1, "hash": "7552de3bd46d3dcd32951888c1786599", "tri_count": "2409", "events": [{"seq": "3", "frame": "19", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "29", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "39", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "49", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "59", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "69", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "79", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "89", "file": "common/npc_step1.wav"}, {"seq": "3", "frame": "99", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "19", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "29", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "39", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "49", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "59", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "69", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "79", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "89", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "99", "file": "common/npc_step1.wav"}, {"seq": "5", "frame": "1", "file": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav"}, {"seq": "5", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunner_attack1.wav"}, {"seq": "6", "frame": "19", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "29", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "39", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "49", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "59", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "69", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "79", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "89", "file": "common/npc_step1.wav"}, {"seq": "6", "frame": "99", "file": "common/npc_step1.wav"}, {"seq": "12", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "13", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "14", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "15", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "16", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "17", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "18", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunnerhello.wav"}, {"seq": "21", "frame": "1", "file": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav"}, {"seq": "21", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunner_attack1.wav"}, {"seq": "24", "frame": "1", "file": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav"}, {"seq": "24", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunner_attack1.wav"}, {"seq": "27", "frame": "1", "file": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav"}, {"seq": "27", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunner_attack1.wav"}, {"seq": "30", "frame": "1", "file": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav"}, {"seq": "30", "frame": "1", "file": "aomdc/monsters/wheelchair/sawrunner_attack1.wav"}]}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "ref1",
+					"polys": 2409,
+					"verts": 1246
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 1004,
+			"frame": 19,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 29,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 39,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 49,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 59,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 69,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 79,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 89,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 99,
+			"options": "common/npc_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 19,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 29,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 39,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 49,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 59,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 69,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 79,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 89,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 99,
+			"options": "common/npc_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunner_attack1.wav",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 19,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 29,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 39,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 49,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 59,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 69,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 79,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 89,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 99,
+			"options": "common/npc_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunnerhello.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 27,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunner_attack1.wav",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunner_attack1.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunner_attack1.wav",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/chainsaw_attack_miss.wav",
+			"sequence": 30,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "aomdc/monsters/wheelchair/sawrunner_attack1.wav",
+			"sequence": 30,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 11,
+			"options": "",
+			"sequence": 30,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "7552de3bd46d3dcd32951888c1786599",
+	"name": "sawrunner.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 90.000000,
+			"frames": 101,
+			"name": "walk"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "attack1_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "dieheadshot"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "dieheadshot2"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "diebackward"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "dieforward"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "dieheadshot"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 31,
+			"name": "dieheadshot2"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "attack1_1"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "attack1_1"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "attack1_1"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "attack1_1"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}, 
+		{
+			"fps": 150.000000,
+			"frames": 101,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 160,
+			"name": "headlol.bmp",
+			"width": 348
+		}, 
+		{
+			"flags": 0,
+			"height": 119,
+			"name": "skoside_2.bmp",
+			"width": 316
+		}, 
+		{
+			"flags": 0,
+			"height": 379,
+			"name": "byxa_fram_2.bmp",
+			"width": 168
+		}, 
+		{
+			"flags": 0,
+			"height": 432,
+			"name": "byxa_bak_2.bmp",
+			"width": 176
+		}, 
+		{
+			"flags": 0,
+			"height": 141,
+			"name": "sko_under.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 246,
+			"name": "hand.bmp",
+			"width": 260
+		}, 
+		{
+			"flags": 0,
+			"height": 380,
+			"name": "jacket_front.bmp",
+			"width": 448
+		}, 
+		{
+			"flags": 0,
+			"height": 386,
+			"name": "jacket_back.bmp",
+			"width": 448
+		}, 
+		{
+			"flags": 0,
+			"height": 424,
+			"name": "chainsawtex1.bmp",
+			"width": 436
+		}, 
+		{
+			"flags": 0,
+			"height": 228,
+			"name": "tex1.bmp",
+			"width": 148
+		}
+	],
+	"version": 10
+}
