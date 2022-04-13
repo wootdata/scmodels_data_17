@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +25,42 @@
 		{
 			"models": [
 				{
-					"name": "mc",
-					"polys": 1122,
-					"verts": 608
+					"name": "medium_body",
+					"polys": 561,
+					"verts": 288
 				}
 			],
 			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "helmet2",
+					"polys": 132,
+					"verts": 68
+				}
+			],
+			"name": "helmet"
+		}, 
+		{
+			"models": [
+				{
+					"name": "head1",
+					"polys": 341,
+					"verts": 192
+				}
+			],
+			"name": "head"
+		}, 
+		{
+			"models": [
+				{
+					"name": "medium_gear",
+					"polys": 244,
+					"verts": 139
+				}
+			],
+			"name": "gear"
 		}
 	],
 	"controllers": [
@@ -69,9 +99,30 @@
 	],
 	"events": [
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/armor_jump.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/armor_jump.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -83,9 +134,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -97,9 +162,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -111,10 +190,52 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied2_die.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_grenade_draw.wav",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_grenade.wav",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_grenade_draw.wav",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_grenade.wav",
+			"sequence": 40,
 			"type": 0
 		}, 
 		{
@@ -125,10 +246,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
 			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 54,
 			"type": 0
 		}, 
 		{
@@ -139,10 +274,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
 			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 62,
 			"type": 0
 		}, 
 		{
@@ -167,10 +316,66 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "20",
 			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 84,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_rpg_draw.wav",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 88,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_rpg_draw.wav",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 92,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 116,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 122,
 			"type": 0
 		}, 
 		{
@@ -251,10 +456,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 149,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 153,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 155,
 			"type": 0
 		}, 
 		{
@@ -272,6 +491,13 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 162,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "15",
@@ -286,10 +512,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 168,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 172,
 			"type": 0
 		}, 
 		{
@@ -298,11 +538,18 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/allied_needammo.wav",
+			"sequence": 176,
+			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "129718462163cf603410e47d503a9f1b",
-	"name": "halo_black.mdl",
+	"md5": "02739b6c0a043298cc3467c8ff7208c9",
+	"name": "Allied2.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -357,47 +604,47 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 27,
+			"frames": 31,
 			"name": "swim"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 32,
+			"frames": 31,
 			"name": "treadwater"
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 19,
+			"frames": 46,
 			"name": "die_simple"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 25,
+			"frames": 60,
 			"name": "die_backwards1"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 36,
+			"frames": 60,
 			"name": "die_backwards"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 19,
+			"frames": 39,
 			"name": "die_forwards"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 28,
+			"frames": 47,
 			"name": "headshot"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 21,
+			"frames": 31,
 			"name": "die_spin"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 38,
+			"frames": 72,
 			"name": "gutshot"
 		}, 
 		{
@@ -1214,9 +1461,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 6.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 71,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1125668,
+	"size": 1594340,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,48 +1563,16 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1320,19 +1580,51 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 L Finger12",
 			"parent": 26
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 27
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Finger01",
@@ -1341,6 +1633,18 @@
 		{
 			"name": "Bip01 R Finger02",
 			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1348,21 +1652,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 505,
-			"name": "main.bmp",
+			"height": 511,
+			"name": "body2.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 3,
-			"height": 64,
-			"name": "facechrome.bmp",
-			"width": 64
+			"flags": 0,
+			"height": 511,
+			"name": "body1.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 16,
-			"name": "white.bmp",
-			"width": 16
+			"height": 127,
+			"name": "helmet2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 252,
+			"name": "face1.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
