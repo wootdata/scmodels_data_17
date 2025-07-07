@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a87d0ed8c20c3448ac6e3040d7cc7a1b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "botnes.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

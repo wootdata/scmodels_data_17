@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "84464375ae7a165ab74d6639a157f4d8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compiled/dante.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

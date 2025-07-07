@@ -153,6 +153,7 @@
 			"name": "14"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -818,7 +819,11 @@
 	],
 	"id": 1414743113,
 	"md5": "01c9240c27ae116963f112385b108968",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AL_Nagato_Meranian.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

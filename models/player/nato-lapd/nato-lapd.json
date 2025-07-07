@@ -48,6 +48,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265565446,
 	"events": [
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "336e86b3f3cbb959b4ddcde1b9ed194b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-Lapd.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

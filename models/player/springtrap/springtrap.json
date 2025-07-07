@@ -263,6 +263,7 @@
 			"name": "david_maneyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1fa8c327c88c264d9b26eb32634741d5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\spring trap ojos plomos\\+-",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

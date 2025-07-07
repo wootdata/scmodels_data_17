@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1496689624,
 	"events": [
@@ -410,7 +411,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7552de3bd46d3dcd32951888c1786599",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sawrunner.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

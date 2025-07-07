@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [],
 	"date": 1046597640,
 	"events": [],
 	"id": 1414743113,
 	"md5": "98cd709265999ec53640cacdb738397c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Backup\\Bumper Car Models\\Models\\vs\\vs.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

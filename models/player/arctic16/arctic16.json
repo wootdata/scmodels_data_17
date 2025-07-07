@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8b90af3821881cc1a1b26c845c6eb85d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "arctic16.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

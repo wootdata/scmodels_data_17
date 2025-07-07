@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -352,7 +353,11 @@
 	],
 	"id": 1414743113,
 	"md5": "24c207aff34369de4c69d6d2db5945f8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ija_sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

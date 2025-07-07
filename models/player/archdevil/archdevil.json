@@ -82,6 +82,7 @@
 			"name": "mesh"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1483816878,
 	"events": [
@@ -242,7 +243,11 @@
 	],
 	"id": 1414743113,
 	"md5": "073090967e4d1ceaa94fad81472bdee0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "archdevil.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

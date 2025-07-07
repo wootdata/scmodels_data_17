@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8dd7d140c3b129be3862481a46f9b882",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "prvtrfox.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

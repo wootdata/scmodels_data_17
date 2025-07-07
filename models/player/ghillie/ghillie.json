@@ -53,6 +53,7 @@
 			"name": "equip"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "64e788d72053b6c368c5215a8259519e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\My Project\\Model Compile\\ghillie.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

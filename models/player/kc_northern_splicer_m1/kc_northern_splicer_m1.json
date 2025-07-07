@@ -168,6 +168,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -518,7 +519,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0c74cb43118f54e31e897a5503074f97",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kc_northern_splicer_M1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

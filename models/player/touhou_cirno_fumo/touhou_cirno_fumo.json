@@ -63,6 +63,7 @@
 			"name": "cirno_group4"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1690065285,
 	"events": [
@@ -300,7 +301,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a29fe37363225fff0e1ae280e654dc41",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_cirno_fumo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

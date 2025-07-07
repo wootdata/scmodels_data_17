@@ -33,6 +33,7 @@
 			"name": "kurtz"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "82e7ecb725607f095248641fd0c5dc64",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compile.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

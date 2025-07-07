@@ -38,6 +38,7 @@
 			"name": "gender"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ab5841433c54e922b161cb485000b0a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AZ_Gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

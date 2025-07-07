@@ -263,6 +263,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "54734f8b03ba9a7cebe7eb384b189185",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rumia.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

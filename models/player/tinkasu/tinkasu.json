@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4214330ec4bc86357fc9b6cc94968be3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tinkasu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

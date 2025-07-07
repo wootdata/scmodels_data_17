@@ -102,6 +102,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -470,7 +471,11 @@
 	],
 	"id": 1414743113,
 	"md5": "096099ee09480ab63144e27177ee521a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\bracky rock\\new_brs.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

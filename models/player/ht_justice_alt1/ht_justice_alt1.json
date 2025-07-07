@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -822,7 +823,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7af9994f0f1eb3c86eeec744b1af61c5",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "HT_Justice_Alt1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

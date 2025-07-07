@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -704,7 +705,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e88524d601c7236a3496054d4746989d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fox.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

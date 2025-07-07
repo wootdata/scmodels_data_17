@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2e0f80e28d4e4d6f22ec0376d821d06d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gena.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

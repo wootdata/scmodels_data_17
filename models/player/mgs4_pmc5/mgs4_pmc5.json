@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "26c4d8f7cc0f91dfaf5ed90d24c4c105",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MGS4_pmc5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

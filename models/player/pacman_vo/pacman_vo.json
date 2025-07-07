@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1702583032,
 	"events": [
@@ -81,7 +82,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71c1d594655c4182b0be4b0d67c22557",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "pacman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

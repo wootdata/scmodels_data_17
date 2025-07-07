@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "82704fd5b1f3277817c879205365499d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dolboeb.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

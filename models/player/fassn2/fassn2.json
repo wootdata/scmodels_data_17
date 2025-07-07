@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "031a225fec3999c4f2a3d6c59caa5eae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\sierra\\half-life\\gearbox\\models\\player\\DM_Fassn\\DM_Fassn.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

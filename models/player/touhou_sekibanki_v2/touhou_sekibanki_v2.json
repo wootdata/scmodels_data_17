@@ -178,6 +178,7 @@
 			"name": "hands"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -512,7 +513,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0c688f3c610b2122bbf9b34b8503b6ec",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Touhou_Sekibanki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

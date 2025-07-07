@@ -43,6 +43,7 @@
 			"name": "sarge"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3bbc2b4a2dc9c96829c81a0bfe7c33ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "compile.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

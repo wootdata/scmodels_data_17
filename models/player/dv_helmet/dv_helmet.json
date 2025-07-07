@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b5849ddb869d34228c4e073961161c22",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DV_Helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

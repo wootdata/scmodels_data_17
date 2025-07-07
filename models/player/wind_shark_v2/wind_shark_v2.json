@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5e588f6d47420ea15ca0db00c7527e1f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wind_shark.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

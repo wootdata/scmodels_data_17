@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1452702710,
 	"events": [],
 	"id": 1414743113,
 	"md5": "8821376e12bd497af7f7f838b2b376e9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "d:\\rewolf\\baboon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

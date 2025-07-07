@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -394,7 +395,11 @@
 	],
 	"id": 1414743113,
 	"md5": "87b559afdf338aafe65d830b0c6eeafc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Manaka.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

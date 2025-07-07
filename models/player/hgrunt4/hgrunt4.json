@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "68103db0a4e6dc7ed7a72a6830e8847b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hgrunt.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

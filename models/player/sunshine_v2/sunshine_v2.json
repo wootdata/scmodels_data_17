@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 33,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5156e4cae40a3ce82cd8738970736b71",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sunshine.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

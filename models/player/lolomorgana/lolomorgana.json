@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2f64790c5b4a071f1f698961ab8d4acb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MorganaO.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6cc9c93b912fecafc7199a972e5ef6af",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "penguin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

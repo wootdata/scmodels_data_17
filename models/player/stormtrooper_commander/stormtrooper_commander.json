@@ -53,6 +53,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2215e2ca5be673ef304fd09cbfdfb9b2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stormtrooper_commander.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

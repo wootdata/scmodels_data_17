@@ -33,6 +33,7 @@
 			"name": "CyborgNinja"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "860bc858f7201c5b0b28436e5ff483f1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CyborgNinjaRed.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

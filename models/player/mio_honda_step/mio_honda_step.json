@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1586124150,
 	"events": [
@@ -272,7 +273,11 @@
 	],
 	"id": 1414743113,
 	"md5": "43160f47273c1adafbc980d32289cf73",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mio_honda_step.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

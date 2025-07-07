@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -792,7 +793,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0a1eee38a4242837e03e1b5b33d08928",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "HT_Modeus.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

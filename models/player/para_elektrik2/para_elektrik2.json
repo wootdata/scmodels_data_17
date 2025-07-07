@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e88c13242ce3d4d25ed313ae2cf5a5f2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_PELEKTRIK2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

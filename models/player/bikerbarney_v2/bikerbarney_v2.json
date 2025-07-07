@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ef99a23c681bfdd4f93b390f1d1e8504",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bikerbarney.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

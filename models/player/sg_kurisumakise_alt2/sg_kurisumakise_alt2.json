@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -796,7 +797,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9bc9b426d99685ffd7d147c85829fb94",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SG_KurisuMakise.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

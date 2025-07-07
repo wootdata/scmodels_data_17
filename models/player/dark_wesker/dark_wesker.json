@@ -73,6 +73,7 @@
 			"name": "Body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -441,7 +442,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b7b023b27221d05b8183056aba3da950",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\APOCALIPSIS\\Escritorio\\weskerHD\\wesker",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

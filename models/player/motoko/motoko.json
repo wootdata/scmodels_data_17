@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -391,7 +392,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ef2d077bf9c685a3d9340f58e801cbca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Motoko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

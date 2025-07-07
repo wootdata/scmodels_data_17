@@ -38,6 +38,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ba9c7d5f11fce84d2df7fa2a16972efa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "POSTAL_Redux_Dude.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

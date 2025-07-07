@@ -53,6 +53,7 @@
 			"name": "legs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -317,7 +318,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c678088ddece0b902f6eb859eeb237a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "models/player/yuki_muumuyu/yuki_muumuyu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

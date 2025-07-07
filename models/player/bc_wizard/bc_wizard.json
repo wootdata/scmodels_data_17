@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1045907400,
 	"events": [],
 	"id": 1414743113,
 	"md5": "6cff3d5ab1e88057a7adb765817e0757",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Backup\\Bumper Car Models\\Models\\wizard\\wizard.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
