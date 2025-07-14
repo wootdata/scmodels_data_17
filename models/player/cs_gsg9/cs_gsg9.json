@@ -301,6 +301,7 @@
 	"md5": "31583a732c095fb6fb72103b7005383e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cs_gsg9.mdl",
 	"preview": true,
 	"readme": false,

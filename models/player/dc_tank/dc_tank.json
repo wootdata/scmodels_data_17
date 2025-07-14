@@ -256,6 +256,7 @@
 	"md5": "2d5824af8569f3aa0afa3b9a82491385",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "tank.mdl",
 	"preview": true,
 	"readme": false,

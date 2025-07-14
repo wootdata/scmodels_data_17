@@ -301,6 +301,7 @@
 	"md5": "db19ed0b6b8809014520722717b90941",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "tower_enemy.mdl",
 	"preview": true,
 	"readme": false,

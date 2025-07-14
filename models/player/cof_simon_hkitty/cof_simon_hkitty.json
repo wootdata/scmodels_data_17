@@ -301,6 +301,7 @@
 	"md5": "07a4f2c5b2d9e55bb06d15cedc605a3c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cryoffear_simon.mdl",
 	"preview": true,
 	"readme": false,
