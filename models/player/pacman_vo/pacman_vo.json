@@ -14,7 +14,7 @@
 	],
 	"colorable": false,
 	"controllers": [],
-	"date": 1702583032,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 5004,
@@ -84,6 +84,7 @@
 	"md5": "71c1d594655c4182b0be4b0d67c22557",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "pacman.mdl",
 	"preview": true,
 	"readme": false,

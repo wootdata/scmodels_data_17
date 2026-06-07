@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092281,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "55fc672b1175ec35a0e6c77c19073f66",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "nuku.mdl",
 	"preview": true,
 	"readme": false,

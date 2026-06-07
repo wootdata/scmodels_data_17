@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 996106242,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "50945d087625f965c387610af7d14a81",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\wh40k_MOD\\models\\dark-eldar\\deldar.mdl",
 	"preview": true,
 	"readme": true,

@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 985484808,
+	"date": 1780811529,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "db32c893a97f24665ab279c8ad2b9078",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\attente\\player\\dawn\\Dawn.mdl",
 	"preview": true,
 	"readme": false,
